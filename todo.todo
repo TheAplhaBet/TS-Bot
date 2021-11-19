@@ -1,0 +1,25 @@
+Moderation Commands
+  [✅]  1. Ban
+  [✅]  2. Unban
+  [✅]  3. Kick
+  [✅]  4. Mute
+  [✅]  5. Unmute
+  [❌]  6. Warn
+  [❌]  7. Warn-Remove
+  [❌]  8. Warn-List
+  [❌]  9. Clear
+  [❌]  10. Lock
+  [❌]  11. Lockdown
+
+Ticket System ❌
+
+Auto Mod ❌ 
+
+Music Commands ❌ 
+    https://www.github.com/reconlx
+    Make sure to reply in embeds
+
+Leveling 
+  [❌]  1. Make sure to give xp in a 'messageCreate' Event
+  [❌]  2. Rank
+  [❌]  3. Leaderboard
